@@ -1,0 +1,1 @@
+& START http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/atsvetkov/a0e0989826f518219c27/raw/6a18559af3397796cd60a1f4f8d4bc9a249ed06e/dev_install

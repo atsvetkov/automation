@@ -1,0 +1,1 @@
+& START http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/atsvetkov/a0e0989826f518219c27/raw/3cdba7a096db968371cb7286657dd01c8eab8c58/dev_uninstall
